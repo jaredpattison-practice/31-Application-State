@@ -6,4 +6,5 @@
 ### Author: Jared
 
 ### Links and Resources
-* [code sandbox Assignment 1](https://codesandbox.io/s/z2p677xy4l)
+* [code sandbox Connect to a store](https://codesandbox.io/s/z2p677xy4l)
+* [code sandbox Connect to a store](https://codesandbox.io/s/oxrlm5mx4z)
